@@ -69,7 +69,7 @@
  <div class="amado-btn-group mt-30 mb-100">
                
                 <a href="./login.php" class="btn amado-btn mb-15">Login</a>
-                <a href="../register.php" class="btn amado-btn mb-15">Register</a>
+                <a href="./register.php" class="btn amado-btn mb-15">Register</a>
                 
             </div>
                 </a>
